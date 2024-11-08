@@ -145,3 +145,12 @@ Este plano foi feito para qualquer pessoa interessada em aprender desenvolviment
   - Conceitos de CI/CD (Continuous Integration/Continuous Deployment)
   - Pipelines de CI/CD com GitHub Actions ou Azure DevOps
   - Ferramentas de monitoramento e logging (Application Insights, Cloud
+ 
+  ### Dicas para Sucesso
+1. **Prática constante**: Faça pequenos projetos e participe de desafios de codificação.
+2. **Utilize recursos online**: Aproveite documentação e cursos.
+3. **Participe de comunidades**: Stack Overflow e fóruns de desenvolvedores são ótimos lugares para buscar ideias e tirar dúvidas.
+
+## Licença
+Este projeto é licenciado sob a [Licença MIT](link-da-licenca).
+
